@@ -77,6 +77,8 @@ Pronouns: He/Him
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="45"/>
+<img src="https://your-repo-link/uiux.svg" width="45"/>
+
 
 </p>
 
